@@ -1,10 +1,12 @@
-# Afri-coders.com
-Africoders Website built by and for the Africoders community
-Website Development Doc:
-https://docs.google.com/document/d/1sRG_YY3m2E7hWMMetO1a6z8lPKUPooLuA_00FeVLlig/edit?usp=sharing
-
+# Welcome to Afri-coders.com
+[Afri-coders.com](https://github.com/AFRICODERS/Africoders-Main/blob/main/index.html)
 
 # Afri-coders.com 💫🌍
+Africoders Website built by and for the Africoders community
+Website Development Doc:
+
+[Documentation](https://docs.google.com/document/d/1sRG_YY3m2E7hWMMetO1a6z8lPKUPooLuA_00FeVLlig/edit?usp=sharing)
+
 
 ![](https://img.shields.io/github/repo-size/Afri-coders/Welcome-to-Afri-coders)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Afri-coders">

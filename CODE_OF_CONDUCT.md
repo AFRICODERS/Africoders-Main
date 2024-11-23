@@ -54,7 +54,7 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Bauddhik-Geek team at [Email](bauddhikgeek@gmail.com) or [Discord](https://discord.gg/d75xW8Bfjd). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The Bauddhik-Geek team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Afri-coders team at [Email](africoders@gmail.com) or [Discord](https://discord.gg/TY52f6cD). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The Bauddhik-Geek team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
