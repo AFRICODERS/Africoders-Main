@@ -16,7 +16,7 @@ https://docs.google.com/document/d/1sRG_YY3m2E7hWMMetO1a6z8lPKUPooLuA_00FeVLlig/
 
 ## Demo 💻
 
-![ezgif-6-65a09f8d306a](https://user-images.githubusercontent.com/68494604/134782812-43602a82-9d0d-440f-a2c1-073b4d2202a2.gif)
+![ezgif-6-65a09f8d306a](https://www.canva.com/design/DAGXSe7GAco/8ouTl_mqNuWky8o8Y1sHaA/watch?utm_content=DAGXSe7GAco&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## How to become member? 🎓 
 
@@ -68,7 +68,7 @@ git checkout -b <your_branch_name>
 
 **8.** Then open ```index.html``` file in your System ✔️ 
 
-**9.** Add yourself as a contributors of ```Bauddhik Geeks``` on the website in contributors section ✔️ 
+**9.** Add yourself as a contributors of ```Afri-coders``` on the website in contributors section ✔️ 
  
 **10.** Find the below code on website ✔️
 
@@ -108,11 +108,11 @@ In this vision of **Afri-coders** there are lots of folks behind it but the spec
 
 ⭐ **Afri-coders Members**
 
--   [Eno Peter](https://github.com/Regicyber) 💬
+-   [Benevox](https://github.com/Regicyber) 💬
 
 ✨ **Our Moderators:**
 
--   [Eno Peter](https://github.com/Regicyber) 💬
+-   [Benevox](https://github.com/Regicyber) 💬
 
 ## 👨‍🎓 Community socials:
 
@@ -154,7 +154,7 @@ Join the [Discord server](https://discord.gg/TY52f6cD) to get connected. All the
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Regicyber"><img src="https://github.com/Regicyber.png" width="100px;" alt=""/><br /><sub><b>Eno Peter</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Regicyber"><img src="https://github.com/Regicyber.png" width="100px;" alt=""/><br /><sub><b>Benevox</b></sub></a></td>
   </tr>
 </table>
 
