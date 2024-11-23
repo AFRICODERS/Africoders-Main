@@ -4,10 +4,10 @@ Website Development Doc:
 https://docs.google.com/document/d/1sRG_YY3m2E7hWMMetO1a6z8lPKUPooLuA_00FeVLlig/edit?usp=sharing
 
 
-# Bauddhik-Geeks.github.io 👨‍
+# Afri-coders.com 👨‍
 
-![](https://img.shields.io/github/repo-size/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Bauddhik-Geeks">
+![](https://img.shields.io/github/repo-size/Afri-coders/Welcome-to-Afri-coders)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Afri-coders">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://user-images.githubusercontent.com/68494604/134782910-ff2a63bb-ac82-4dd7-a9fd-a0a963029342.gif">
@@ -20,32 +20,32 @@ https://docs.google.com/document/d/1sRG_YY3m2E7hWMMetO1a6z8lPKUPooLuA_00FeVLlig/
 
 ## How to become member? 🎓 
 
--   Join Bauddhik-Geeks Discord Server [here](https://discord.gg/TY52f6cD)
+-   Join Afri-coders Discord Server [here](https://discord.gg/TY52f6cD)
 -   Create issue on this repo using the issue template
--   Add yourself [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md) 👈
--   For more detail click 👉 [how_to_become_member](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/How_to_become_member.md)
+-   Add yourself [here](https://github.com/AFRICODERS/Africoders-Main/blob/main/Members.md) 👈
+-   For more detail click 👉 [how_to_become_member](https://github.com/AFRICODERS/Africoders-Main/blob/main/How_to_become_member.md)
 -   🎊 Hurray! You're a member of such awesome community 🎉
 
 ## 👨‍💻 How to contribute 👨‍💻
 
 We would love to accept your contributions! To get started follow below guidelines: 👇
 
-**1.** Fork and give star ⭐ to [this](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks) repository ✔️
+**1.** Fork and give star ⭐ to [this](https://github.com/AFRICODERS/Africoders-Main) repository ✔️
 
 **2.** Clone your forked copy of this Repository ✔️
 ```
-git clone git@github.com:{username}/Bauddhik-Geeks.github.io.git
+git clone git@github.com:{username}/Afri-coders.github.io.git
 ```
 
 **3.** Navigate to the project directory :file_folder: ✔️
 
 ```
-cd Bauddhik-Geeks.github.io
+cd Afri-coders.github.io
 ```
 
 **4.** Add a reference(remote) to the original repository ✔️
 ```
-git remote add upstream https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io.git
+git remote add upstream https://github.com/AFRICODERS/Africoders-Main
 ```
 
 **5.** Check the remotes for this repository ✔️
@@ -93,36 +93,31 @@ git checkout -b <your_branch_name>
  
  - Done 🎉
 
-# 👨‍🎓 Bauddhik-Geeks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# 👨‍🎓 Afri-coders <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <br>
 <p align="center">
-  <img align="top" src="https://cdn.discordapp.com/attachments/885062668858306590/888283616046620702/Welcome_to_Bauddhik-Geeks.gif">
+  <img align="top" src="https://cdn.discordapp.com/attachments/885062668858306590/888283616046620702/Welcome_to_Afri-coders.gif">
 
-**Bauddhik-Geeks** is a community that was created in 2020 by [Nitesh Thapliyal](https://github.com/Nitesh-thapliyal) ⭐. It is a place where all folks from different backgrounds can chill, learn and grow. 👨‍🎓
+**Afri-coders** is a community that was created in 2020 by [Nitesh Thapliyal](https://github.com/Nitesh-thapliyal) ⭐. It is a place where all folks from different backgrounds can chill, learn and grow. 👨‍🎓
 The vision of our community is to help the student developers or professionals with the resources that will help them in their technical journey.
-In this vision of **Bauddhik-Geeks** there are lots of folks behind it but the special mention to those who helped in reviving the community 👨‍
+In this vision of **Afri-coders** there are lots of folks behind it but the special mention to those who helped in reviving the community 👨‍
 
 <a href="https://www.instagram.com/bauddhik_geeks/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://twitter.com/BauddhikGeeks" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-⭐ **Bauddhik-Geeks Members**
+⭐ **Afri-coders Members**
 
--   [Priyanshu Pardhi](https://github.com/priyanshupardhi) 💬
--   [Kamlesh Joshi](https://github.com/kamleshjoshi8102) 💬
--   [Piyush Chandel](https://github.com/Piyush-Codes7) 💬
+-   [Eno Peter](https://github.com/Regicyber) 💬
 
 ✨ **Our Moderators:**
 
--   [Aditya Mangal](https://github.com/adityamangal1) 💬
--   [Keval Vavaliya](https://github.com/kevalvavaliya) 💬
--   [Abhi Goyani](https://github.com/abhigoyani) 💬
--   [Hari Kanani](https://github.com/harikanani) 💬
+-   [Eno Peter](https://github.com/Regicyber) 💬
 
 ## 👨‍🎓 Community socials:
 
--   [Twitter](https://twitter.com/BauddhikGeeks) 👈
--   [Instagram](https://www.instagram.com/bauddhik_geeks) 👈
+-   [Twitter](https://twitter.com/Africoders) 👈
+-   [Instagram](https://www.instagram.com/Africoders) 👈
 
 ## AIM ✔️
 
@@ -139,14 +134,14 @@ our aim is to provide:
 
 ## Members 👨‍
 
-All the members are [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md). Thank you for your support.
+All the members are [here](https://github.com/AFRICODERS/Africoders-Main/blob/main/Members.md). Thank you for your support.
 
 ## How to become member?
 
--   Join Bauddhik-Geeks Discord Server [here](https://discord.gg/TY52f6cD)
+-   Join Afri-coders Discord Server [here](https://discord.gg/TY52f6cD)
 -   Create issue on this repo using the issue template
--   Add yourself [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md) 👈
--   For more detail click 👉 [how_to_become_member](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/How_to_become_member.md)
+-   Add yourself [here](https://github.com/AFRICODERS/Africoders-Main/blob/main/Members.md) 👈
+-   For more detail click 👉 [how_to_become_member](https://github.com/AFRICODERS/Africoders-Main/blob/main/How_to_become_member.md)
 -   🎊 Hurray! You're a member of such awesome community 🎉
 
 ## Join us <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
@@ -159,7 +154,7 @@ Join the [Discord server](https://discord.gg/TY52f6cD) to get connected. All the
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/kevalvavaliya"><img src="https://github.com/kevalvavaliya.png" width="100px;" alt=""/><br /><sub><b>Keval</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Regicyber"><img src="https://github.com/Regicyber.png" width="100px;" alt=""/><br /><sub><b>Eno Peter</b></sub></a></td>
   </tr>
 </table>
 
