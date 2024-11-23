@@ -4,19 +4,16 @@ Website Development Doc:
 https://docs.google.com/document/d/1sRG_YY3m2E7hWMMetO1a6z8lPKUPooLuA_00FeVLlig/edit?usp=sharing
 
 
-# Afri-coders.com 👨‍
+# Afri-coders.com 💫🌍
 
 ![](https://img.shields.io/github/repo-size/Afri-coders/Welcome-to-Afri-coders)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Afri-coders">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://user-images.githubusercontent.com/68494604/134782910-ff2a63bb-ac82-4dd7-a9fd-a0a963029342.gif">
+  <img alt="Sloan, the sloth mascot" width="250px" src="https://github.com/AFRICODERS/Africoders-Main/blob/main/images/logo.gif">
    <br>
 </p>
 
-## Demo 💻
-
-![ezgif-6-65a09f8d306a](https://www.canva.com/design/DAGXSe7GAco/8ouTl_mqNuWky8o8Y1sHaA/watch?utm_content=DAGXSe7GAco&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## How to become member? 🎓 
 
