@@ -11,6 +11,7 @@ Website Development Doc:
 ![](https://img.shields.io/github/repo-size/Afri-coders/Welcome-to-Afri-coders)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Afri-coders">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://github.com/AFRICODERS/Africoders-Main/blob/main/images/logo.gif">
    <br>
